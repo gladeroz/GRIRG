@@ -1,0 +1,370 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-28 22:39+0100\n"
+"PO-Revision-Date: 2017-11-28 22:50+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: functions.php:169 functions.php:178 wp_fiche_fournisseur.php:291
+#: wp_fiche_fournisseur.php:344 wp_fiche_fournisseur.php:396
+#: wp_mod_fiche_fournisseur.php:129
+msgid "Entreprise"
+msgstr "Company"
+
+#: functions.php:170 functions.php:179 wp_fiche_fournisseur.php:292
+#: wp_fiche_fournisseur.php:345 wp_fiche_fournisseur.php:497
+#: wp_mod_fiche_fournisseur.php:230
+msgid "Pays"
+msgstr "Country"
+
+#: functions.php:171 functions.php:180
+msgid "Activités principales"
+msgstr "Main activities"
+
+#: functions.php:172 functions.php:181
+msgid "Spécialités"
+msgstr "Specialities"
+
+#: index.php:358
+msgid "Fiche fournisseur"
+msgstr "Suppliers form"
+
+#: index.php:367 index.php:376
+msgid "Vous n'avez pas les permissions suffisantes pour accéder à cette page"
+msgstr "You do not have sufficient permission to access this page"
+
+#: objects.php:47 wp_fiche_fournisseur.php:459 wp_fiche_fournisseur.php:462
+#: wp_mod_fiche_fournisseur.php:193 wp_mod_fiche_fournisseur.php:196
+msgid "Autres"
+msgstr "Others"
+
+#: objects.php:49 wp_fiche_fournisseur.php:404
+#: wp_mod_fiche_fournisseur.php:138
+msgid "Environnement, énergie, traitement des eaux"
+msgstr "Environment / Energy / Water treatment"
+
+#: objects.php:50 wp_fiche_fournisseur.php:405
+#: wp_mod_fiche_fournisseur.php:139
+msgid "Travaux maritimes et portuaires"
+msgstr "Maritime and port works"
+
+#: objects.php:51 wp_fiche_fournisseur.php:406
+#: wp_mod_fiche_fournisseur.php:140
+msgid "Géotechnique, VRD"
+msgstr "Geotechnical studies"
+
+#: objects.php:52 wp_fiche_fournisseur.php:407
+#: wp_mod_fiche_fournisseur.php:141
+msgid "Modélisations et simulations"
+msgstr "Modeling and simulation"
+
+#: objects.php:53 wp_fiche_fournisseur.php:408
+#: wp_mod_fiche_fournisseur.php:142
+msgid "Aménagement de zones foncières, études économiques et spécialisées"
+msgstr "Development of economic land areas, economic studies"
+
+#: objects.php:54 wp_fiche_fournisseur.php:409
+#: wp_mod_fiche_fournisseur.php:143
+msgid "Etudes ICPE, Assistance à Maitrise d'Ouvrage"
+msgstr "French ICPE studies, project management"
+
+#: objects.php:55 wp_fiche_fournisseur.php:410
+#: wp_mod_fiche_fournisseur.php:144
+msgid "Contrôles, épreuves, normalisation"
+msgstr "Control, tests, standardization"
+
+#: objects.php:56 wp_fiche_fournisseur.php:411
+#: wp_mod_fiche_fournisseur.php:145
+msgid "Construction de bâtiments, hangars, stockages, architectes"
+msgstr "Building, construction, warehouses, storage, architects"
+
+#: objects.php:58 wp_fiche_fournisseur.php:421
+#: wp_mod_fiche_fournisseur.php:156
+msgid "Transporteur routier"
+msgstr "Road transport"
+
+#: objects.php:59 wp_fiche_fournisseur.php:422
+#: wp_mod_fiche_fournisseur.php:157
+msgid "Transporteur ferroviaire"
+msgstr "Rail transport"
+
+#: objects.php:60 wp_fiche_fournisseur.php:423
+#: wp_mod_fiche_fournisseur.php:158
+msgid "Transporteur aérien"
+msgstr "Air transport"
+
+#: objects.php:61 wp_fiche_fournisseur.php:424
+#: wp_mod_fiche_fournisseur.php:159
+msgid "Transporteur maritime"
+msgstr "Maritime transport"
+
+#: objects.php:62 wp_fiche_fournisseur.php:425
+#: wp_mod_fiche_fournisseur.php:160
+msgid "Transport fluvial"
+msgstr "River transport"
+
+#: objects.php:63 wp_fiche_fournisseur.php:426
+#: wp_mod_fiche_fournisseur.php:161
+msgid "Intermodalité"
+msgstr "Intermodal transport"
+
+#: objects.php:64 wp_fiche_fournisseur.php:427
+#: wp_mod_fiche_fournisseur.php:162
+msgid "Transitaires, prestataires logistiques"
+msgstr "Freight forwarders, logistics professionals"
+
+#: objects.php:65 wp_fiche_fournisseur.php:428
+#: wp_mod_fiche_fournisseur.php:163
+msgid "Zones logistiques (opérateurs publics et privés)"
+msgstr "Logistics platforms (private and public operators)"
+
+#: objects.php:66 wp_fiche_fournisseur.php:429
+#: wp_mod_fiche_fournisseur.php:164
+msgid "Port maritime ou fluvial"
+msgstr "Maritime and river ports"
+
+#: objects.php:67 wp_fiche_fournisseur.php:430
+#: wp_mod_fiche_fournisseur.php:165
+msgid "Expertise maritime et marchandises"
+msgstr "Maritime/goods surveyors"
+
+#: objects.php:68 wp_fiche_fournisseur.php:431
+#: wp_mod_fiche_fournisseur.php:166
+msgid "Assurances et professions juridiques"
+msgstr "Insurance and legal activities"
+
+#: objects.php:69 wp_fiche_fournisseur.php:432
+#: wp_mod_fiche_fournisseur.php:167
+msgid "Surveillance et sécurité"
+msgstr "Surveillance, security, watchmen"
+
+#: objects.php:71 wp_fiche_fournisseur.php:442
+#: wp_mod_fiche_fournisseur.php:176
+msgid ""
+"Equipements portuaires et de manutention, chariots élévateurs, grues, "
+"outillage, accastillage, élingues, chaines, palonniers et assimilés"
+msgstr ""
+"Port and handling equipment, forklifts, cranes, tools, accessories, "
+"fittings, slings, chains, spreaders"
+
+#: objects.php:72 wp_fiche_fournisseur.php:443
+#: wp_mod_fiche_fournisseur.php:177
+msgid "Pompes, filtres, tuyauterie (activités liquides)"
+msgstr "Pumps, filters, piping (liquid activities)"
+
+#: objects.php:73 wp_fiche_fournisseur.php:444
+#: wp_mod_fiche_fournisseur.php:178
+msgid "Location et vente de véhicules, remorques, wagons, conteneurs"
+msgstr "Vehicle, road trailers, railcars, containers (sale and rental)"
+
+#: objects.php:74 wp_fiche_fournisseur.php:445
+#: wp_mod_fiche_fournisseur.php:179
+msgid "Systèmes de pesage"
+msgstr "Weighting bridges and systems"
+
+#: objects.php:75 wp_fiche_fournisseur.php:446
+#: wp_mod_fiche_fournisseur.php:180
+msgid "Constructeurs et réparateurs spécialisés"
+msgstr "Specialised manufacturers and repairers"
+
+#: objects.php:76 wp_fiche_fournisseur.php:447
+#: wp_mod_fiche_fournisseur.php:181
+msgid "Emballage, protection et traitement des marchandises"
+msgstr "Cargo packing, protection and, treatments"
+
+#: objects.php:77 wp_fiche_fournisseur.php:449
+#: wp_mod_fiche_fournisseur.php:183
+msgid "Ecoles et formation"
+msgstr "Schools and training"
+
+#: objects.php:78 wp_fiche_fournisseur.php:450
+#: wp_mod_fiche_fournisseur.php:184
+msgid "Communication, relations médias, photographes"
+msgstr "Communication, media relations, photographers"
+
+#: objects.php:79 wp_fiche_fournisseur.php:451
+#: wp_mod_fiche_fournisseur.php:185
+msgid "Electricité industrielle, plomberie, peinture, travaux"
+msgstr "Electricity, plumbing, painting, works"
+
+#: objects.php:80 wp_fiche_fournisseur.php:452
+#: wp_mod_fiche_fournisseur.php:186
+msgid "Eléments en béton et assimilés"
+msgstr "Concrete elements"
+
+#: objects.php:81 wp_fiche_fournisseur.php:453
+#: wp_mod_fiche_fournisseur.php:187
+msgid "Equipements de Lutte contre l’incendie"
+msgstr "Fire fighting equipment"
+
+#: objects.php:83 wp_fiche_fournisseur.php:471
+#: wp_mod_fiche_fournisseur.php:205
+msgid "Vracs liquides"
+msgstr "Liquid bulk"
+
+#: objects.php:84 wp_fiche_fournisseur.php:472
+#: wp_mod_fiche_fournisseur.php:206
+msgid "Vracs secs"
+msgstr "Dry bulk"
+
+#: objects.php:85 wp_fiche_fournisseur.php:473
+#: wp_mod_fiche_fournisseur.php:207
+msgid "Conventionnel et roro"
+msgstr "Breakbulk, roll on / roll off"
+
+#: objects.php:86 wp_fiche_fournisseur.php:474
+#: wp_mod_fiche_fournisseur.php:208
+msgid "Conteneurs"
+msgstr "Containers"
+
+#: objects.php:87 wp_fiche_fournisseur.php:475
+#: wp_mod_fiche_fournisseur.php:209
+msgid "Marchandises dangereuses"
+msgstr "Hazardous cargoes"
+
+#: wp_fiche_fournisseur.php:40
+msgid "Envoi d'une demande d'ajout au répertoire des fournisseurs"
+msgstr "Send a request to join the Suppliers Directory"
+
+#: wp_fiche_fournisseur.php:51
+msgid "La fiche a été modifiée avec succès !"
+msgstr "Form modified with success !"
+
+#: wp_fiche_fournisseur.php:53
+msgid "La fiche a été supprimée avec succès !"
+msgstr "Form deleted with success !"
+
+#: wp_fiche_fournisseur.php:90 wp_mod_fiche_fournisseur.php:22
+msgid "Veuillez remplir tous les champs !"
+msgstr "Please fill all the boxes !"
+
+#: wp_fiche_fournisseur.php:94
+msgid "Le nom de l'entreprise ou du contact existe déjà !"
+msgstr "Company name already exists !"
+
+#: wp_fiche_fournisseur.php:98 wp_mod_fiche_fournisseur.php:26
+msgid "L'email n'est pas valide !"
+msgstr "Email is not valid !"
+
+#: wp_fiche_fournisseur.php:169
+msgid "La fiche a été enregistrée avec succès !"
+msgstr "Form registered with success !"
+
+#: wp_fiche_fournisseur.php:174 wp_fiche_fournisseur.php:213
+#: wp_mod_fiche_fournisseur.php:85
+msgid "Erreur dans le formulaire"
+msgstr "Error in the form"
+
+#: wp_fiche_fournisseur.php:198
+msgid "Fournisseur enregistré avec succès !"
+msgstr "Supplier registered with success !"
+
+#: wp_fiche_fournisseur.php:201
+msgid "Inscription au Catalogue Fournisseurs de PLN"
+msgstr "Registration to the Port's Suppliers Directory"
+
+#: wp_fiche_fournisseur.php:219
+msgid "L'email demandé existe déjà !"
+msgstr "This email already exists !"
+
+#: wp_fiche_fournisseur.php:277
+msgid "Envoyer la demande d'inscription"
+msgstr "Send the registration form"
+
+#: wp_fiche_fournisseur.php:293 wp_fiche_fournisseur.php:346
+#: wp_fiche_fournisseur.php:492 wp_mod_fiche_fournisseur.php:226
+msgid "Ville"
+msgstr "Town"
+
+#: wp_fiche_fournisseur.php:294 wp_fiche_fournisseur.php:347
+#: wp_fiche_fournisseur.php:518 wp_mod_fiche_fournisseur.php:253
+msgid "Nom & prénom"
+msgstr "Family name & First name"
+
+#: wp_fiche_fournisseur.php:295 wp_fiche_fournisseur.php:348
+#: wp_fiche_fournisseur.php:528 wp_mod_fiche_fournisseur.php:263
+msgid "Tél."
+msgstr "Tel."
+
+#: wp_fiche_fournisseur.php:296 wp_fiche_fournisseur.php:349
+#: wp_fiche_fournisseur.php:533 wp_mod_fiche_fournisseur.php:268
+msgid "Mobile"
+msgstr "Mobile"
+
+#: wp_fiche_fournisseur.php:297 wp_fiche_fournisseur.php:350
+#: wp_fiche_fournisseur.php:538 wp_mod_fiche_fournisseur.php:273
+msgid "Email"
+msgstr "Email"
+
+#: wp_fiche_fournisseur.php:335 wp_fiche_fournisseur.php:382
+msgid "Liste des fournisseurs"
+msgstr "List of suppliers"
+
+#: wp_fiche_fournisseur.php:401 wp_mod_fiche_fournisseur.php:135
+msgid "Ingénierie – Consultants – Construction"
+msgstr "Engineering - Consultants - Construction"
+
+#: wp_fiche_fournisseur.php:418 wp_mod_fiche_fournisseur.php:152
+msgid "Transport et logistique"
+msgstr "Transport and logistics"
+
+#: wp_fiche_fournisseur.php:439 wp_mod_fiche_fournisseur.php:173
+msgid "Matériel, équipements, formation, travaux"
+msgstr "Equipment, supplies, training, works"
+
+#: wp_fiche_fournisseur.php:468 wp_mod_fiche_fournisseur.php:202
+msgid "spécialité (si applicable)"
+msgstr "speciality (if applicable)"
+
+#: wp_fiche_fournisseur.php:482 wp_mod_fiche_fournisseur.php:217
+msgid "Adresse"
+msgstr "Address"
+
+#: wp_fiche_fournisseur.php:487 wp_mod_fiche_fournisseur.php:222
+msgid "Adresse2"
+msgstr "Address 2"
+
+#: wp_fiche_fournisseur.php:506 wp_mod_fiche_fournisseur.php:239
+msgid "Description"
+msgstr "Description"
+
+#: wp_fiche_fournisseur.php:513 wp_mod_fiche_fournisseur.php:248
+msgid "Site Web"
+msgstr "Website"
+
+#: wp_fiche_fournisseur.php:523 wp_mod_fiche_fournisseur.php:258
+msgid "Titre"
+msgstr "Title"
+
+#: wp_fiche_fournisseur.php:545
+msgid "Créer la fiche entreprise"
+msgstr "Create the company profile"
+
+#: wp_fiche_fournisseur.php:594
+msgid "Voulez-vous vraiment supprimer cette fiche ?"
+msgstr "Are you sure to delete this form ?"
+
+#: wp_mod_fiche_fournisseur.php:114
+msgid "Modification de la fiche fournisseur"
+msgstr "Modification of the supplier record"
+
+#: wp_mod_fiche_fournisseur.php:280
+msgid "Modifier la fiche entreprise"
+msgstr "Modify the company profile"
+
+#: wp_mod_fiche_fournisseur.php:280
+msgid "Retour à la liste"
+msgstr "Back to the list"

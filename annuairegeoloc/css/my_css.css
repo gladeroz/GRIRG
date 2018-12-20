@@ -1,0 +1,17 @@
+#table_fournisseurs {
+	font: 90%/1.45em 'Calibri Light', Calibri, Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	color: #333;
+	background-color: #fff;
+}
+
+td.details-control {
+	background: url('details_open.png') no-repeat center center;
+	cursor: pointer;
+}
+
+tr.shown td.details-control {
+	background: url('details_close.png') no-repeat center center;
+}
